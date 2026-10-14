@@ -2,7 +2,7 @@
 
 A small WordPress plugin that adds a black-and-gold mourning ribbon across the top-left corner of your site, in memory of [Eric Binnion](https://eric.blog/). The ribbon links to [Friends of Eric Binnion](https://friendsofericbinnion.wordpress.com/).
 
-![The R.I.P. Eric ribbon in the top-left corner of a WordPress site](.github/screenshot.png)
+![The R.I.P. Eric ribbon in the top-left corner of a WordPress site](assets/screenshot.png)
 
 There are no settings. Activate the plugin to show the ribbon. Deactivate it to take it down.
 
